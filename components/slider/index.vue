@@ -27,7 +27,7 @@
   </div>
 </template>
 <script>
-  import touchtrack from './touchtrack';
+  import touchtrack from '../util/touchtrack';
 
   export default {
     name: 'Slider',
