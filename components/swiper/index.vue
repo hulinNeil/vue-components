@@ -1,5 +1,5 @@
 <script>
-  import touchtrack from './slider/touchtrack'
+  import touchtrack from '../util/touchtrack.js';
 
   export default {
     name: 'Swiper',
